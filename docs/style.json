@@ -3,7 +3,7 @@
     19.451294,
     41.323201
   ],
-  "glyphs": "http://localhost:9966/font/{fontstack}/{range}.pbf",
+  "glyphs": "https://optgeo.github.io/sh2/font/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
@@ -6852,18 +6852,18 @@
       "type": "circle"
     }
   ],
-  "site_root": "http://localhost:9966",
+  "site_root": "https://optgeo.github.io/sh2",
   "sources": {
     "v": {
       "attribution": "OpenStreetMap contributors, <img src='https://unopengis.github.io/watermark/watermark.png'>",
       "maxzoom": 15,
       "tiles": [
-        "http://localhost:9966/zxy/{z}/{x}/{y}.pbf"
+        "https://optgeo.github.io/sh2/zxy/{z}/{x}/{y}.pbf"
       ],
       "type": "vector"
     }
   },
-  "sprite": "http://localhost:9966/sprite/sprite",
+  "sprite": "https://optgeo.github.io/sh2/sprite/sprite",
   "version": 8,
   "zoom": 11
 }

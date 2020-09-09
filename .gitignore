@@ -1,0 +1,6 @@
+src/*.pbf
+tiles.mbtiles
+
+node_modules
+yarn.lock
+
